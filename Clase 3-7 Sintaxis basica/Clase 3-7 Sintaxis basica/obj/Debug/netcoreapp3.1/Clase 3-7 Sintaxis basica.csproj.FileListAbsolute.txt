@@ -1,0 +1,11 @@
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\bin\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.exe
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\bin\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.deps.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\bin\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.runtimeconfig.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\bin\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\bin\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\bin\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.pdb
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\obj\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.csprojAssemblyReference.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\obj\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\obj\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.AssemblyInfo.cs
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\obj\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 3-7 Sintaxis basica\Clase 3-7 Sintaxis basica\obj\Debug\netcoreapp3.1\Clase 3-7 Sintaxis basica.pdb

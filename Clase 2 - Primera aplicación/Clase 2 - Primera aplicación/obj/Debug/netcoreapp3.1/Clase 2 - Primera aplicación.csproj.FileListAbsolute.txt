@@ -1,0 +1,11 @@
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\bin\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.exe
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\bin\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.deps.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\bin\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.runtimeconfig.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\bin\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\bin\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\bin\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.pdb
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\obj\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.csprojAssemblyReference.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\obj\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\obj\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.AssemblyInfo.cs
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\obj\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 2 - Primera aplicación\Clase 2 - Primera aplicación\obj\Debug\netcoreapp3.1\Clase 2 - Primera aplicación.pdb
