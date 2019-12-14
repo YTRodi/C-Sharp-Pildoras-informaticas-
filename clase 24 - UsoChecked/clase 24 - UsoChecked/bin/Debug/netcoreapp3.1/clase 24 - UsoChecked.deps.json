@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "clase 24 - UsoChecked/1.0.0": {
+        "runtime": {
+          "clase 24 - UsoChecked.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase 24 - UsoChecked/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

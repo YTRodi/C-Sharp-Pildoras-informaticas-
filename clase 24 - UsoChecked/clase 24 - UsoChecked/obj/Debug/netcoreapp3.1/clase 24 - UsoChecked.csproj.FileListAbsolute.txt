@@ -1,0 +1,11 @@
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\bin\Debug\netcoreapp3.1\clase 24 - UsoChecked.exe
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\bin\Debug\netcoreapp3.1\clase 24 - UsoChecked.deps.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\bin\Debug\netcoreapp3.1\clase 24 - UsoChecked.runtimeconfig.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\bin\Debug\netcoreapp3.1\clase 24 - UsoChecked.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\bin\Debug\netcoreapp3.1\clase 24 - UsoChecked.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\bin\Debug\netcoreapp3.1\clase 24 - UsoChecked.pdb
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\obj\Debug\netcoreapp3.1\clase 24 - UsoChecked.csprojAssemblyReference.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\obj\Debug\netcoreapp3.1\clase 24 - UsoChecked.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\obj\Debug\netcoreapp3.1\clase 24 - UsoChecked.AssemblyInfo.cs
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\obj\Debug\netcoreapp3.1\clase 24 - UsoChecked.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 24 - UsoChecked\clase 24 - UsoChecked\obj\Debug\netcoreapp3.1\clase 24 - UsoChecked.pdb

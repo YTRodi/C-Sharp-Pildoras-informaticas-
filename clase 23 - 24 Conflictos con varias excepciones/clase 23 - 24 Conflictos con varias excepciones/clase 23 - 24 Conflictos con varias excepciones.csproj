@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>clase_23___24_Conflictos_con_varias_excepciones</RootNamespace>
+  </PropertyGroup>
+
+</Project>

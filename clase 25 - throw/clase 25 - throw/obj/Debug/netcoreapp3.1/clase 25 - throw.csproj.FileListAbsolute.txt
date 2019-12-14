@@ -1,0 +1,11 @@
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\bin\Debug\netcoreapp3.1\clase 25 - throw.exe
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\bin\Debug\netcoreapp3.1\clase 25 - throw.deps.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\bin\Debug\netcoreapp3.1\clase 25 - throw.runtimeconfig.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\bin\Debug\netcoreapp3.1\clase 25 - throw.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\bin\Debug\netcoreapp3.1\clase 25 - throw.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\bin\Debug\netcoreapp3.1\clase 25 - throw.pdb
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\obj\Debug\netcoreapp3.1\clase 25 - throw.csprojAssemblyReference.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\obj\Debug\netcoreapp3.1\clase 25 - throw.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\obj\Debug\netcoreapp3.1\clase 25 - throw.AssemblyInfo.cs
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\obj\Debug\netcoreapp3.1\clase 25 - throw.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 25 - throw\clase 25 - throw\obj\Debug\netcoreapp3.1\clase 25 - throw.pdb
