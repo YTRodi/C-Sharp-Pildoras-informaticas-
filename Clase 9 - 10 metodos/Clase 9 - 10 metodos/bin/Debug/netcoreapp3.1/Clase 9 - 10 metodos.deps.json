@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Clase 9 - 10 metodos/1.0.0": {
+        "runtime": {
+          "Clase 9 - 10 metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase 9 - 10 metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

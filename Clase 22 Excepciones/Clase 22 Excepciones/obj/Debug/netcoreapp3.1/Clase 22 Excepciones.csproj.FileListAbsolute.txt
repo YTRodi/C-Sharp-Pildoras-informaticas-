@@ -1,0 +1,11 @@
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\bin\Debug\netcoreapp3.1\Clase 22 Excepciones.exe
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\bin\Debug\netcoreapp3.1\Clase 22 Excepciones.deps.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\bin\Debug\netcoreapp3.1\Clase 22 Excepciones.runtimeconfig.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\bin\Debug\netcoreapp3.1\Clase 22 Excepciones.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\bin\Debug\netcoreapp3.1\Clase 22 Excepciones.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\bin\Debug\netcoreapp3.1\Clase 22 Excepciones.pdb
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\obj\Debug\netcoreapp3.1\Clase 22 Excepciones.csprojAssemblyReference.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\obj\Debug\netcoreapp3.1\Clase 22 Excepciones.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\obj\Debug\netcoreapp3.1\Clase 22 Excepciones.AssemblyInfo.cs
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\obj\Debug\netcoreapp3.1\Clase 22 Excepciones.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 22 Excepciones\Clase 22 Excepciones\obj\Debug\netcoreapp3.1\Clase 22 Excepciones.pdb

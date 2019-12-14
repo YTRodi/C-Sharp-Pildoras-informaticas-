@@ -1,0 +1,11 @@
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\bin\Debug\netcoreapp3.1\Clase 9 - 10 metodos.exe
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\bin\Debug\netcoreapp3.1\Clase 9 - 10 metodos.deps.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\bin\Debug\netcoreapp3.1\Clase 9 - 10 metodos.runtimeconfig.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\bin\Debug\netcoreapp3.1\Clase 9 - 10 metodos.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\bin\Debug\netcoreapp3.1\Clase 9 - 10 metodos.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\bin\Debug\netcoreapp3.1\Clase 9 - 10 metodos.pdb
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\obj\Debug\netcoreapp3.1\Clase 9 - 10 metodos.csprojAssemblyReference.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\obj\Debug\netcoreapp3.1\Clase 9 - 10 metodos.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\obj\Debug\netcoreapp3.1\Clase 9 - 10 metodos.AssemblyInfo.cs
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\obj\Debug\netcoreapp3.1\Clase 9 - 10 metodos.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\Clase 9 - 10 metodos\Clase 9 - 10 metodos\obj\Debug\netcoreapp3.1\Clase 9 - 10 metodos.pdb
