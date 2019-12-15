@@ -1,0 +1,11 @@
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\bin\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.exe
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\bin\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.deps.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\bin\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.runtimeconfig.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\bin\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\bin\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\bin\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.pdb
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\obj\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.csprojAssemblyReference.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\obj\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\obj\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.AssemblyInfo.cs
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\obj\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 28 - Ejemplo POO\clase 28 - Ejemplo POO\obj\Debug\netcoreapp3.1\clase 28 - Ejemplo POO.pdb
