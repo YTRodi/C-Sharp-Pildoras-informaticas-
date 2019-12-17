@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "clase 36 - practica arrays en C-sharp/1.0.0": {
+        "runtime": {
+          "clase 36 - practica arrays en C-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase 36 - practica arrays en C-sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

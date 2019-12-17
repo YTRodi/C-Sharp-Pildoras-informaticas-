@@ -1,0 +1,11 @@
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\bin\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.exe
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\bin\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.deps.json
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\bin\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.runtimeconfig.json
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\bin\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.runtimeconfig.dev.json
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\bin\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.dll
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\bin\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.pdb
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\obj\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.csprojAssemblyReference.cache
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\obj\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.AssemblyInfoInputs.cache
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\obj\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.AssemblyInfo.cs
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\obj\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.dll
+C:\Users\Yago\Source\Repos\clase 36 - practica arrays en C-sharp\clase 36 - practica arrays en C-sharp\obj\Debug\netcoreapp3.1\clase 36 - practica arrays en C-sharp.pdb

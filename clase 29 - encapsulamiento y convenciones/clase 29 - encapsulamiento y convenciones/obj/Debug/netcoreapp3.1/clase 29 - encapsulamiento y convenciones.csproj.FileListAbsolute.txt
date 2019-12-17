@@ -1,0 +1,11 @@
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\bin\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.exe
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\bin\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.deps.json
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\bin\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.runtimeconfig.json
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\bin\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.runtimeconfig.dev.json
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\bin\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.dll
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\bin\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.pdb
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\obj\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.csprojAssemblyReference.cache
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\obj\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.AssemblyInfoInputs.cache
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\obj\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.AssemblyInfo.cs
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\obj\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.dll
+C:\Users\Yago\Source\Repos\clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones\obj\Debug\netcoreapp3.1\clase 29 - encapsulamiento y convenciones.pdb

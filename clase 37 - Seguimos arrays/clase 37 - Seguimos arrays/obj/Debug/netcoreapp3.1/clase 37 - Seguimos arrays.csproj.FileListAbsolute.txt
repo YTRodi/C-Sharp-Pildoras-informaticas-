@@ -1,0 +1,11 @@
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\bin\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.exe
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\bin\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.deps.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\bin\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.runtimeconfig.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\bin\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.runtimeconfig.dev.json
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\bin\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\bin\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.pdb
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\obj\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.csprojAssemblyReference.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\obj\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.AssemblyInfoInputs.cache
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\obj\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.AssemblyInfo.cs
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\obj\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.dll
+C:\Users\Yago\Desktop\C-Sharp-Pildoras-informaticas-\clase 37 - Seguimos arrays\clase 37 - Seguimos arrays\obj\Debug\netcoreapp3.1\clase 37 - Seguimos arrays.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase 30 - uso de Constructores (ej coche)", "clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche).csproj", "{469878E3-D1F7-4931-8D2C-4DC155734D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469878E3-D1F7-4931-8D2C-4DC155734D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469878E3-D1F7-4931-8D2C-4DC155734D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469878E3-D1F7-4931-8D2C-4DC155734D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469878E3-D1F7-4931-8D2C-4DC155734D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEFD2464-715B-4A89-B931-3ECA5CE8C57C}
+	EndGlobalSection
+EndGlobal

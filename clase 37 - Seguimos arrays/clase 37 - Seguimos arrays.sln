@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase 37 - Seguimos arrays", "clase 37 - Seguimos arrays\clase 37 - Seguimos arrays.csproj", "{342AAF9F-24FD-433B-A46B-FD984DB841C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342AAF9F-24FD-433B-A46B-FD984DB841C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342AAF9F-24FD-433B-A46B-FD984DB841C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342AAF9F-24FD-433B-A46B-FD984DB841C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342AAF9F-24FD-433B-A46B-FD984DB841C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBE26E0-21C1-43BA-ACD2-B13C5C032777}
+	EndGlobalSection
+EndGlobal

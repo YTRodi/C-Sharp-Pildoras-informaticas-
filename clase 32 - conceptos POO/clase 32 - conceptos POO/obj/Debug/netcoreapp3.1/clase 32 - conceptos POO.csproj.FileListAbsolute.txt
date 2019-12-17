@@ -1,0 +1,11 @@
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\obj\Debug\netcoreapp3.1\clase 32 - conceptos POO.csprojAssemblyReference.cache
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\obj\Debug\netcoreapp3.1\clase 32 - conceptos POO.AssemblyInfoInputs.cache
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\obj\Debug\netcoreapp3.1\clase 32 - conceptos POO.AssemblyInfo.cs
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\bin\Debug\netcoreapp3.1\clase 32 - conceptos POO.exe
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\bin\Debug\netcoreapp3.1\clase 32 - conceptos POO.deps.json
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\bin\Debug\netcoreapp3.1\clase 32 - conceptos POO.runtimeconfig.json
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\bin\Debug\netcoreapp3.1\clase 32 - conceptos POO.runtimeconfig.dev.json
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\bin\Debug\netcoreapp3.1\clase 32 - conceptos POO.dll
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\bin\Debug\netcoreapp3.1\clase 32 - conceptos POO.pdb
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\obj\Debug\netcoreapp3.1\clase 32 - conceptos POO.dll
+C:\Users\Yago\Source\Repos\clase 32 - conceptos POO\clase 32 - conceptos POO\obj\Debug\netcoreapp3.1\clase 32 - conceptos POO.pdb

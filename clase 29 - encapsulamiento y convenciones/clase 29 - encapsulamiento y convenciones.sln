@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase 29 - encapsulamiento y convenciones", "clase 29 - encapsulamiento y convenciones\clase 29 - encapsulamiento y convenciones.csproj", "{9B625E67-9C37-4DB1-A7DB-BF18EADE9A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B625E67-9C37-4DB1-A7DB-BF18EADE9A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B625E67-9C37-4DB1-A7DB-BF18EADE9A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B625E67-9C37-4DB1-A7DB-BF18EADE9A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B625E67-9C37-4DB1-A7DB-BF18EADE9A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5B29C0B-7159-4829-AD69-22DECB4B3F50}
+	EndGlobalSection
+EndGlobal

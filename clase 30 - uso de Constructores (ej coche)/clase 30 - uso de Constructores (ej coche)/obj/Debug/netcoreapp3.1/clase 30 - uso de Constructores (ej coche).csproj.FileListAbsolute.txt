@@ -1,0 +1,11 @@
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\bin\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).exe
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\bin\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).deps.json
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\bin\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).runtimeconfig.json
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\bin\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).runtimeconfig.dev.json
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\bin\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).dll
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\bin\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).pdb
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\obj\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).csprojAssemblyReference.cache
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\obj\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).AssemblyInfoInputs.cache
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\obj\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).AssemblyInfo.cs
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\obj\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).dll
+C:\Users\Yago\Source\Repos\clase 30 - uso de Constructores (ej coche)\clase 30 - uso de Constructores (ej coche)\obj\Debug\netcoreapp3.1\clase 30 - uso de Constructores (ej coche).pdb

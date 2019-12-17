@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>clase_30___uso_de_Constructores__ej_coche_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
